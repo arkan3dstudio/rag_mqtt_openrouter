@@ -1,0 +1,12 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "Tester_smart_NPK",
+            "host": "202.10.44.229",
+            "port": 1884,
+            "clientId": "vsmqtt_Tester_smart_NPK",
+            "username": "pkmunimed",
+            "password": "pkmunimed123"
+        }
+    ]
+}

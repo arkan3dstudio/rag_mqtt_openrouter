@@ -1,0 +1,22 @@
+services:
+  rag_mqtt:
+    image: sultani-rag-mqtt:latest
+    build:
+      context: .
+      dockerfile: Dockerfile.mqtt
+    container_name: rag_mqtt
+    restart: unless-stopped
+    init: true
+    env_file:
+      - .env
+    volumes:
+      - ./data/pdfs:/app/data/pdfs:ro
+      - ./data/document_manifest.json:/app/data/document_manifest.json:ro
+      - ./storage:/app/storage
+      - ./web_data:/app/web_data
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "5"
+    stop_grace_period: 30s

@@ -1,0 +1,229 @@
+{
+  "version": "1.1.0",
+  "chunk_size": 900,
+  "chunk_overlap": 150,
+  "tfidf_max_features": 100000,
+  "tfidf_ngram_max": 2,
+  "document_manifest": {
+    "path": "data/document_manifest.json",
+    "mtime": 1781659930.0,
+    "size": 11609
+  },
+  "pdfs": [
+    {
+      "path": "data/pdfs/20080818112457-budidaya-tanaman-2-2_compress.pdf",
+      "mtime": 1782882145.525621,
+      "size": 9168514
+    },
+    {
+      "path": "data/pdfs/Buku ebook Teknik Budi Daya Tanaman Padi - agil kasep123 - Halaman 30 _ PDF Online _ PubHTML5.pdf",
+      "mtime": 1782882038.8700645,
+      "size": 53820417
+    },
+    {
+      "path": "data/pdfs/BUKU PENGETAHUAN DASAR BUDIDAYA TANAMAN Juli 2025.pdf",
+      "mtime": 1782881370.2750201,
+      "size": 10912082
+    },
+    {
+      "path": "data/pdfs/BUKUBUDIDAYAPADI2019-dikonversi-dikompresi.pdf",
+      "mtime": 1782882354.230154,
+      "size": 996719
+    },
+    {
+      "path": "data/pdfs/Ebook_GPI_BUKUAJARBUDIDAYATANAMANHORTIKULTURA1.pdf",
+      "mtime": 1782881402.9789822,
+      "size": 790414
+    },
+    {
+      "path": "data/pdfs/FullBook Teknik Budidaya Tanaman Pangan.pdf",
+      "mtime": 1782881538.3146088,
+      "size": 36860744
+    },
+    {
+      "path": "data/pdfs/langkah-langkah-budidaya-tanaman_compress.pdf",
+      "mtime": 1782882306.4589531,
+      "size": 56303
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/22.06.021_jurnal_eproc.pdf",
+      "mtime": 1762096006.0,
+      "size": 649652
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/79672-299101-2-PB.pdf",
+      "mtime": 1762096078.0,
+      "size": 409790
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/BUKU+Kekayaan+Varietas+Lokal+Padi_Final+(Publish) (1).pdf",
+      "mtime": 1780551036.0,
+      "size": 9395552
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Deskripsi VUB Padi 2025.pdf",
+      "mtime": 1780551572.0,
+      "size": 10698512
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Dinamika Anjuran Dosis Pemupukan N, P, dan K pada Padi Sawah.pdf",
+      "mtime": 1766894854.0,
+      "size": 73310
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/ebook Budidaya Padi Berkelanjutan.pdf",
+      "mtime": 1780551338.0,
+      "size": 7781328
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/ebook tanaman terpadu usahatani padi.pdf",
+      "mtime": 1780551346.0,
+      "size": 1553891
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Identifikasi Unsur Hara pada Lahan Pertanian Padi.pdf",
+      "mtime": 1762096142.0,
+      "size": 670722
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Layanan Konsultasi Padi (LKP) 2.0.pdf",
+      "mtime": 1780551520.0,
+      "size": 4187968
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/materi2.pdf",
+      "mtime": 1762096142.0,
+      "size": 670722
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/materi3.pdf",
+      "mtime": 1762096142.0,
+      "size": 670722
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Panduan Aplikasi Layanan Konsultasi Padi.pdf",
+      "mtime": 1780551396.0,
+      "size": 19358844
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Penerapan Budidaya Tanaman Padi Terstandar.pdf",
+      "mtime": 1780551318.0,
+      "size": 7015269
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Prosedur Operasional Standar (POS) Budi Daya Padi Sawah.pdf",
+      "mtime": 1778055944.0,
+      "size": 11005156
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Rag_Padi_Manual_book_1.pdf",
+      "mtime": 1780547370.0,
+      "size": 8698055
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Rag_Padi_Penelitian_1.pdf",
+      "mtime": 1780547306.0,
+      "size": 358143
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Rekomendasi Budidaya Padi pada Berbagai Ekosistem.pdf",
+      "mtime": 1780551138.0,
+      "size": 5354786
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Rekomendasi Budidaya Padi untuk Berbagai Ekosistem.pdf",
+      "mtime": 1780551176.0,
+      "size": 922496
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Statistik Penelitian dan Pengembangan Pertanian 2021.pdf",
+      "mtime": 1780551222.0,
+      "size": 18838920
+    },
+    {
+      "path": "data/pdfs/Pdf_padi/Teknik Mengendalikat Hama dan Penyakit Tanaman Padi.pdf",
+      "mtime": 1780551376.0,
+      "size": 8747084
+    },
+    {
+      "path": "data/pdfs/PERTANIAN BUDIDAYA DAN TANAMAN.pdf",
+      "mtime": 1782881484.4793208,
+      "size": 3168284
+    },
+    {
+      "path": "data/pdfs/Rag_bawang_Manual_book_1.pdf",
+      "mtime": 1780548464.0,
+      "size": 784440
+    },
+    {
+      "path": "data/pdfs/Rag_bawang_penelitian_1.pdf",
+      "mtime": 1780548868.0,
+      "size": 342010
+    },
+    {
+      "path": "data/pdfs/Rag_Cab_mer_Manual_book_1.pdf",
+      "mtime": 1780548044.0,
+      "size": 6817736
+    },
+    {
+      "path": "data/pdfs/Rag_Cab_mer_penelitian_1.pdf",
+      "mtime": 1780547944.0,
+      "size": 528127
+    },
+    {
+      "path": "data/pdfs/Rag_Cab_rawit_manual_book_1.pdf",
+      "mtime": 1780548202.0,
+      "size": 27747961
+    },
+    {
+      "path": "data/pdfs/Rag_Cab_rawit_Penelitian_1.pdf",
+      "mtime": 1780548450.0,
+      "size": 1014084
+    },
+    {
+      "path": "data/pdfs/Rag_Jagung_Manual_book_1.pdf",
+      "mtime": 1780547622.0,
+      "size": 2643549
+    },
+    {
+      "path": "data/pdfs/Rag_Jagung_Penelitian_1.pdf",
+      "mtime": 1780547400.0,
+      "size": 206031
+    },
+    {
+      "path": "data/pdfs/Rag_Kedelai_manual_book_1.pdf",
+      "mtime": 1780549036.0,
+      "size": 10235042
+    },
+    {
+      "path": "data/pdfs/Rag_kentang_Penelitian_1.pdf",
+      "mtime": 1780548902.0,
+      "size": 752620
+    },
+    {
+      "path": "data/pdfs/Rag_Terong_penelitian_1.pdf",
+      "mtime": 1780548912.0,
+      "size": 396216
+    },
+    {
+      "path": "data/pdfs/Rag_Timun_penelitian_1.pdf",
+      "mtime": 1780548926.0,
+      "size": 383311
+    },
+    {
+      "path": "data/pdfs/Rag_Tomat_Manual_book_1.pdf",
+      "mtime": 1780548184.0,
+      "size": 2032065
+    },
+    {
+      "path": "data/pdfs/Rag_Tomat_Penenilitian_1.pdf",
+      "mtime": 1780548190.0,
+      "size": 290302
+    },
+    {
+      "path": "data/pdfs/Teknik Budidaya Tanaman Jilid 3 by Chairani Hanum.pdf",
+      "mtime": 1782881522.8616302,
+      "size": 3589570
+    }
+  ]
+}

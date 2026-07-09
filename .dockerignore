@@ -1,0 +1,16 @@
+.env
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.rar
+
+data/pdfs
+storage
+web_data
+
+agronomy_improved_code
+.agents
+.codex

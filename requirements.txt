@@ -1,0 +1,7 @@
+openai==2.38.0
+python-dotenv==1.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+pymupdf==1.27.2.3
+streamlit==1.57.0
+paho-mqtt==1.6.1

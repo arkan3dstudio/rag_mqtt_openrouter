@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+storage/index/*.joblib
+storage/markdown/*.md
+.DS_Store
+*.rar
+*.zip
+*.7z

@@ -1,0 +1,26 @@
+{
+  "documents": [
+    {
+      "file": "data/pdfs/juknis_padi.pdf",
+      "crop": "padi",
+      "growth_stage": "vegetatif",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "publisher": "Kementerian Pertanian / Instansi resmi",
+      "year": 2024,
+      "topics": ["budidaya", "pemupukan", "NPK", "pH", "EC", "pengairan"],
+      "document_title": "Petunjuk Teknis Budidaya Padi"
+    },
+    {
+      "file": "data/pdfs/paper_npk_cabai.pdf",
+      "crop": "cabai",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "publisher": "Jurnal/Prosiding",
+      "topics": ["cabai", "NPK", "pemupukan", "produktivitas"],
+      "document_title": "Paper NPK Cabai"
+    }
+  ]
+}

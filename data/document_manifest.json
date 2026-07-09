@@ -1,0 +1,310 @@
+{
+  "documents": [
+    {
+      "file": "data/pdfs/Rag_bawang_Manual_book_1.pdf",
+      "crop": "bawang_merah",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["bawang merah", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Bawang Merah"
+    },
+    {
+      "file": "data/pdfs/Rag_bawang_penelitian_1.pdf",
+      "crop": "bawang_merah",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["bawang merah", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Bawang Merah"
+    },
+    {
+      "file": "data/pdfs/Rag_Cab_mer_Manual_book_1.pdf",
+      "crop": "cabai_merah",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["cabai merah", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Cabai Merah"
+    },
+    {
+      "file": "data/pdfs/Rag_Cab_mer_penelitian_1.pdf",
+      "crop": "cabai_merah",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["cabai merah", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Cabai Merah"
+    },
+    {
+      "file": "data/pdfs/Rag_Cab_rawit_manual_book_1.pdf",
+      "crop": "cabai_rawit",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["cabai rawit", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Cabai Rawit"
+    },
+    {
+      "file": "data/pdfs/Rag_Cab_rawit_Penelitian_1.pdf",
+      "crop": "cabai_rawit",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["cabai rawit", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Cabai Rawit"
+    },
+    {
+      "file": "data/pdfs/Rag_Jagung_Manual_book_1.pdf",
+      "crop": "jagung",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["jagung", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Jagung"
+    },
+    {
+      "file": "data/pdfs/Rag_Jagung_Penelitian_1.pdf",
+      "crop": "jagung",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["jagung", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Jagung"
+    },
+    {
+      "file": "data/pdfs/Rag_Kedelai_manual_book_1.pdf",
+      "crop": "kedelai",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["kedelai", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Kedelai"
+    },
+    {
+      "file": "data/pdfs/Rag_kentang_Penelitian_1.pdf",
+      "crop": "kentang",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["kentang", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Kentang"
+    },
+    {
+      "file": "data/pdfs/Rag_Terong_penelitian_1.pdf",
+      "crop": "terong",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["terong", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Terong"
+    },
+    {
+      "file": "data/pdfs/Rag_Timun_penelitian_1.pdf",
+      "crop": "timun",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["timun", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Timun"
+    },
+    {
+      "file": "data/pdfs/Rag_Tomat_Manual_book_1.pdf",
+      "crop": "tomat",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["tomat", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Tomat"
+    },
+    {
+      "file": "data/pdfs/Rag_Tomat_Penenilitian_1.pdf",
+      "crop": "tomat",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["tomat", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Tomat"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/22.06.021_jurnal_eproc.pdf",
+      "crop": "padi",
+      "doc_type": "jurnal",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["padi", "penelitian", "budidaya", "produktivitas"],
+      "document_title": "Jurnal E-Proceeding Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/79672-299101-2-PB.pdf",
+      "crop": "padi",
+      "doc_type": "jurnal",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["padi", "penelitian", "budidaya", "produktivitas"],
+      "document_title": "Artikel Penelitian Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/BUKU+Kekayaan+Varietas+Lokal+Padi_Final+(Publish) (1).pdf",
+      "crop": "padi",
+      "doc_type": "ebook_manual_resmi",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "varietas", "plasma nutfah", "budidaya"],
+      "document_title": "Kekayaan Varietas Lokal Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Deskripsi VUB Padi 2025.pdf",
+      "crop": "padi",
+      "doc_type": "ebook_manual_resmi",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "varietas unggul", "VUB", "deskripsi varietas"],
+      "document_title": "Deskripsi VUB Padi 2025"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Dinamika Anjuran Dosis Pemupukan N, P, dan K pada Padi Sawah.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "pemupukan", "NPK", "nitrogen", "fosfor", "kalium", "sawah"],
+      "document_title": "Dinamika Anjuran Dosis Pemupukan N, P, dan K pada Padi Sawah"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/ebook Budidaya Padi Berkelanjutan.pdf",
+      "crop": "padi",
+      "doc_type": "ebook_manual_resmi",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "budidaya", "berkelanjutan", "pemupukan", "pengairan", "pH"],
+      "document_title": "Budidaya Padi Berkelanjutan"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/ebook tanaman terpadu usahatani padi.pdf",
+      "crop": "padi",
+      "doc_type": "ebook_manual_resmi",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "usahatani", "budidaya terpadu", "pemupukan", "pengairan"],
+      "document_title": "Tanaman Terpadu Usahatani Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Identifikasi Unsur Hara pada Lahan Pertanian Padi.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "unsur hara", "NPK", "pH", "uji tanah", "defisiensi hara"],
+      "document_title": "Identifikasi Unsur Hara pada Lahan Pertanian Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Layanan Konsultasi Padi (LKP) 2.0.pdf",
+      "crop": "padi",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "konsultasi", "rekomendasi", "pemupukan", "budidaya"],
+      "document_title": "Layanan Konsultasi Padi 2.0"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/materi2.pdf",
+      "crop": "padi",
+      "doc_type": "modul_pelatihan",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "unsur hara", "budidaya", "pemupukan"],
+      "document_title": "Materi Pelatihan Padi 2"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/materi3.pdf",
+      "crop": "padi",
+      "doc_type": "modul_pelatihan",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "unsur hara", "budidaya", "pemupukan"],
+      "document_title": "Materi Pelatihan Padi 3"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Panduan Aplikasi Layanan Konsultasi Padi.pdf",
+      "crop": "padi",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "konsultasi", "aplikasi", "rekomendasi", "pemupukan"],
+      "document_title": "Panduan Aplikasi Layanan Konsultasi Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Penerapan Budidaya Tanaman Padi Terstandar.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "budidaya", "terstandar", "pemupukan", "pengairan", "hama penyakit"],
+      "document_title": "Penerapan Budidaya Tanaman Padi Terstandar"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Prosedur Operasional Standar (POS) Budi Daya Padi Sawah.pdf",
+      "crop": "padi",
+      "doc_type": "sop_manual",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "sawah", "SOP", "budidaya", "pemupukan", "pengairan"],
+      "document_title": "POS Budi Daya Padi Sawah"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Rag_Padi_Manual_book_1.pdf",
+      "crop": "padi",
+      "doc_type": "manual_book",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "budidaya", "pemupukan", "NPK", "pH", "pengairan"],
+      "document_title": "Manual Budidaya Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Rag_Padi_Penelitian_1.pdf",
+      "crop": "padi",
+      "doc_type": "paper_riset_asli",
+      "source_type": "paper_riset_asli",
+      "authority": "B",
+      "topics": ["padi", "penelitian", "pemupukan", "produktivitas"],
+      "document_title": "Penelitian Padi"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Rekomendasi Budidaya Padi pada Berbagai Ekosistem.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "budidaya", "ekosistem", "pemupukan", "pengairan", "sawah"],
+      "document_title": "Rekomendasi Budidaya Padi pada Berbagai Ekosistem"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Rekomendasi Budidaya Padi untuk Berbagai Ekosistem.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "budidaya", "ekosistem", "pemupukan", "pengairan", "sawah"],
+      "document_title": "Rekomendasi Budidaya Padi untuk Berbagai Ekosistem"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Statistik Penelitian dan Pengembangan Pertanian 2021.pdf",
+      "crop": "padi",
+      "doc_type": "ebook_manual_resmi",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["pertanian", "statistik", "penelitian", "pengembangan"],
+      "document_title": "Statistik Penelitian dan Pengembangan Pertanian 2021"
+    },
+    {
+      "file": "data/pdfs/Pdf_padi/Teknik Mengendalikat Hama dan Penyakit Tanaman Padi.pdf",
+      "crop": "padi",
+      "doc_type": "petunjuk_teknis",
+      "source_type": "ebook_manual_resmi",
+      "authority": "A",
+      "topics": ["padi", "hama penyakit", "pengendalian", "budidaya"],
+      "document_title": "Teknik Mengendalikan Hama dan Penyakit Tanaman Padi"
+    }
+  ]
+}
